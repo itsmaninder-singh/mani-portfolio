@@ -1,0 +1,16 @@
+{
+    "versions": [
+        {
+            "version": 1,
+            "date": "2026-08-27",
+            "directory": "v1-2026-08-27",
+            "hash": "01176f8d3aa12b9b4247585cec2665e9f06cc129a15003c4fc74088b3483db31"
+        },
+        {
+            "version": 2,
+            "date": "2026-09-02",
+            "directory": "v2-2026-09-02",
+            "hash": "b14ece02a2333f7b1a37ea1787e847d65ff9541c5ce4f8f6470d5cfe7ff14c8f"
+        }
+    ]
+}

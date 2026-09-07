@@ -1,0 +1,187 @@
+[
+    {
+        "id": "vector",
+        "sourceFilename": "vector.png",
+        "width": 1920,
+        "height": 1080,
+        "originalBytes": 344010,
+        "previewEncoding": "webp-quality-100",
+        "previewVariants": [
+            {
+                "filename": "vector-480.webp",
+                "width": 480,
+                "height": 270,
+                "bytes": 9208
+            },
+            {
+                "filename": "vector-768.webp",
+                "width": 768,
+                "height": 432,
+                "bytes": 19068
+            },
+            {
+                "filename": "vector-1200.webp",
+                "width": 1200,
+                "height": 675,
+                "bytes": 38038
+            }
+        ],
+        "detailEncoding": "png-lossless",
+        "detailVariants": [
+            {
+                "filename": "vector-detail-1600.png",
+                "width": 1600,
+                "height": 900,
+                "bytes": 346683
+            }
+        ]
+    },
+    {
+        "id": "devconnect",
+        "sourceFilename": "devconnect.png",
+        "width": 1920,
+        "height": 1080,
+        "originalBytes": 310339,
+        "previewEncoding": "webp-quality-100",
+        "previewVariants": [
+            {
+                "filename": "devconnect-480.webp",
+                "width": 480,
+                "height": 270,
+                "bytes": 8902
+            },
+            {
+                "filename": "devconnect-768.webp",
+                "width": 768,
+                "height": 432,
+                "bytes": 17586
+            },
+            {
+                "filename": "devconnect-1200.webp",
+                "width": 1200,
+                "height": 675,
+                "bytes": 34072
+            }
+        ],
+        "detailEncoding": "png-lossless",
+        "detailVariants": [
+            {
+                "filename": "devconnect-detail-1600.png",
+                "width": 1600,
+                "height": 900,
+                "bytes": 317877
+            }
+        ]
+    },
+    {
+        "id": "edith",
+        "sourceFilename": "edith.png",
+        "width": 1920,
+        "height": 1080,
+        "originalBytes": 374052,
+        "previewEncoding": "webp-quality-100",
+        "previewVariants": [
+            {
+                "filename": "edith-480.webp",
+                "width": 480,
+                "height": 270,
+                "bytes": 12806
+            },
+            {
+                "filename": "edith-768.webp",
+                "width": 768,
+                "height": 432,
+                "bytes": 26860
+            },
+            {
+                "filename": "edith-1200.webp",
+                "width": 1200,
+                "height": 675,
+                "bytes": 52308
+            }
+        ],
+        "detailEncoding": "png-lossless",
+        "detailVariants": [
+            {
+                "filename": "edith-detail-1600.png",
+                "width": 1600,
+                "height": 900,
+                "bytes": 393628
+            }
+        ]
+    },
+    {
+        "id": "repomind",
+        "sourceFilename": "repomind.png",
+        "width": 1920,
+        "height": 1080,
+        "originalBytes": 337098,
+        "previewEncoding": "webp-quality-100",
+        "previewVariants": [
+            {
+                "filename": "repomind-480.webp",
+                "width": 480,
+                "height": 270,
+                "bytes": 9316
+            },
+            {
+                "filename": "repomind-768.webp",
+                "width": 768,
+                "height": 432,
+                "bytes": 19198
+            },
+            {
+                "filename": "repomind-1200.webp",
+                "width": 1200,
+                "height": 675,
+                "bytes": 38656
+            }
+        ],
+        "detailEncoding": "png-lossless",
+        "detailVariants": [
+            {
+                "filename": "repomind-detail-1600.png",
+                "width": 1600,
+                "height": 900,
+                "bytes": 344716
+            }
+        ]
+    },
+    {
+        "id": "cloud-notes",
+        "sourceFilename": "cloud-notes.png",
+        "width": 1920,
+        "height": 1080,
+        "originalBytes": 332608,
+        "previewEncoding": "webp-quality-100",
+        "previewVariants": [
+            {
+                "filename": "cloud-notes-480.webp",
+                "width": 480,
+                "height": 270,
+                "bytes": 8754
+            },
+            {
+                "filename": "cloud-notes-768.webp",
+                "width": 768,
+                "height": 432,
+                "bytes": 18008
+            },
+            {
+                "filename": "cloud-notes-1200.webp",
+                "width": 1200,
+                "height": 675,
+                "bytes": 35194
+            }
+        ],
+        "detailEncoding": "png-lossless",
+        "detailVariants": [
+            {
+                "filename": "cloud-notes-detail-1600.png",
+                "width": 1600,
+                "height": 900,
+                "bytes": 307464
+            }
+        ]
+    }
+]

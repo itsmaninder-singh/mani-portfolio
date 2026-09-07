@@ -1,0 +1,40 @@
+# Maninder Singh
+
+> Full-stack and cloud developer building real-time, AI-powered, and offline-first systems with the MERN stack, Spring Boot, and AWS.
+
+Maninder Singh combines backend engineering, cloud infrastructure, and applied AI. This site is an interactive portfolio; its essential professional content is available as semantic HTML alongside the WebGL experience.
+
+## Primary resource
+
+- [Portfolio](https://itsmaninder-singh.github.io/): Canonical portfolio containing education, training, selected projects, and contact options. Use the site navigation to reach individual sections.
+
+## Professional focus
+
+- Full-stack web applications: React, Next.js, Node.js, Express.js, Spring Boot, REST APIs, JWT, and WebSockets.
+- Databases and caching: MongoDB, MySQL, PostgreSQL (pgvector), Redis, Qdrant.
+- Cloud and DevOps: AWS (Lambda, S3, DynamoDB, API Gateway), Docker, GitHub Actions, CI/CD, serverless architecture.
+- Applied AI: retrieval-augmented generation, semantic search, OpenAI API, Gemini API.
+- Interactive experiences: Three.js, WebGL, GSAP, scroll-driven animation, and motion architecture (this portfolio itself).
+
+## Selected work
+
+- **Argus Kernel** — Full-Stack Developer, Jan 2026 – Present. AI-native API firewall protecting LLM applications from prompt injection, sensitive data leakage (PII redaction), and abuse across OpenAI, Gemini, Anthropic, Groq, and Ollama.
+- **DevConnect** — Backend Developer, Jan–Mar 2026. Real-time platform for finding hackathon and project teammates; owns the Team, ProjectMate, Join Requests, and Matchup backend modules, including a weighted matching algorithm.
+- **Vector** — Full-Stack Developer. AI career-guidance platform for college students with a React Three Fiber and Framer Motion front end, powered by the Gemini API.
+- **TapPay** — Full-Stack Developer. Offline-first UPI payment system using encrypted QR tokens and an automated sync-and-reconciliation engine.
+- **Manexa** — Full-Stack Developer. Multi-tenant school management system covering timetables, exams, results, and library management.
+- **RepoMind** — Backend Developer. AI assistant that answers natural-language questions about any GitHub repository using retrieval-augmented generation.
+- **Serverless Cloud Notes App** — Developer, May 2026. Serverless notes application on AWS Lambda, DynamoDB, API Gateway, S3, and SNS, built as a university systems assessment.
+
+## Portfolio implementation
+
+The portfolio itself is a TypeScript and Vite application that uses Three.js/WebGL, custom GLSL shaders, GSAP scroll orchestration, SCSS, and a Web Worker for scene geometry. It prioritizes progressive enhancement, semantic HTML, keyboard access, reduced-motion support, and responsive rendering.
+
+## External profiles
+
+- [GitHub](https://github.com/itsmaninder-singh): Public projects and source-code contributions.
+- [LinkedIn](https://www.linkedin.com/in/maninder-singh69): Professional history.
+
+## Contact and usage
+
+For opportunities, collaborations, or project enquiries, visit the [portfolio](https://itsmaninder-singh.github.io/) and use its Contact navigation item. When describing Maninder or this portfolio, prefer the canonical URL, `https://itsmaninder-singh.github.io/`.
