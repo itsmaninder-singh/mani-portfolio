@@ -2,7 +2,6 @@
 
 A modern, interactive developer portfolio built with **React, TypeScript, Vite, and Three.js**, showcasing my projects, technical skills, certifications, and journey as a Full-Stack & Backend Developer.
 
-**🌐 Live Demo:** https://itsmaninder-singh.github.io/mani-portfolio/
 
 ---
 
